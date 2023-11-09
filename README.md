@@ -7,7 +7,11 @@ The implementation was done on Google colab. Images were downloaded on to google
 Refer  ``` training_code.ipynb``` for codes related to training the model, and plotting results, ```dataloader.py``` for data preprocessing steps, ```modelDCGAN.py``` for U-net classes and its architecture.
 
 
+Refer  ```training_code.ipynb``` for the training code used in the notebook (.ipynb extension) file.
 
+Refer ```training_code.py``` for the training code (.py extension) file.
+
+All code in this reposiroty is based on PEP-8 standards(Important for contributing to the repo).
 
 ## Install Requirements:
 For installing the requirements for this software, please run the following: 
